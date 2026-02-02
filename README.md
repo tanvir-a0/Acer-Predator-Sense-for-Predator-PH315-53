@@ -6,7 +6,9 @@ When I entered my **Serial Number / SNID / Model Number** on the official Predat
 https://www.acer.com/ae-en/predator/support/drivers-manuals/drivers-and-manuals  
 the website failed to detect my device and did not provide any software downloads.
 
-However, when I used the **same Serial Number or SNID** on Acer’s main support website, my laptop was detected correctly. Despite that, **Predator Sense was not listed** among the available software.
+However, when I used the **same Serial Number or SNID** on Acer’s main support website, 
+https://www.acer.com/us-en/account/register-product
+my laptop was detected correctly. but here, **Predator Sense was not listed** among the available software for my laptop. 
 
 To resolve this, I posted the issue on the Acer Community forum:
 
